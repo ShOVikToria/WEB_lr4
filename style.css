@@ -68,7 +68,6 @@ a:hover{
     background-color: white;
     height: 30vh;
     width: 100vw;
-    min-height: calc(750px * 0.6);
 }
 
 .person-image {
